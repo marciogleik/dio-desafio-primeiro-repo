@@ -2,7 +2,7 @@
 
 ## 🎯 Desafio de Projeto: Git/GitHub
 
-Este repositório foi criado como parte do **desafio** do curso da [DIO](https://www.dio.me/) sobre **Git** e **GitHub**. O objetivo do projeto é praticar o uso básico de **Git** para controle de versões e o gerenciamento de código-fonte através do **GitHub**.
+Este repositório foi criado como parte do **desafio** do curso da [DIO](https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d?back=/track/banco-pan-java-developer) sobre **Git** e **GitHub**. O objetivo do projeto é praticar o uso básico de **Git** para controle de versões e o gerenciamento de código-fonte através do **GitHub**.
 
 ## 📝 Sobre o Desafio
 
