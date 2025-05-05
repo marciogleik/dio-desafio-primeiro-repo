@@ -1,0 +1,17 @@
+1) Configurar primeiramente a chave usando o comando:
+ssh-keygen -t ed255519 -C "email"
+
+2) Comando ls dentro da pasta que foi adicionada a chave para ver os arquivos
+id_ed25519 id_ed25519.pub
+
+3) Comando cat para ver a chave que foi gerada. Copie essa chave e coloque no GitHub.
+cat id_ed255519.pub
+
+4) Comando para passar a chave pro Agent
+eval $(ssh-agent -s)
+
+5) Passar a chave que criamos para ele(Agent). OBS: A chave privada
+ssh-add id_ed25519
+
+link de Download do Git: https://git-scm.com/downloads
+ 
